@@ -7,5 +7,6 @@
 </head>
 <body>
 	<h1>Welcome to my website!</h1>
+        <h1>This is a platform for exchanging bridge construction techniques</h1>
 </body>
 </html>
